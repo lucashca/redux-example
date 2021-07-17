@@ -1,0 +1,17 @@
+
+.statusBar{
+    height: 100%;
+    min-width: 5px;
+}
+
+.green{
+    background-color: #00CC00;
+}
+
+.red{
+    background-color: #CC0000;
+}
+
+.yellow{
+    background-color: #CCCC00;
+}
